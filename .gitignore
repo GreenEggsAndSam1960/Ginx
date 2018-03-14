@@ -2,3 +2,4 @@
 .idea/
 react_root/static/bundles/
 node_modules/
+webpack-stats-local.json

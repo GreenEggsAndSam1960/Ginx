@@ -1,0 +1,8 @@
+{% load render_bundle from webpack_loader %}
+<html>
+<body>
+<div id="app"></div>
+{% render_bundle 'vendors' %}
+{% render_bundle 'app' %}
+</body>
+</html>

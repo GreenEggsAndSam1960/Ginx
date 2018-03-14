@@ -1,3 +1,4 @@
 *.pyc
+.idea/
 react_root/static/bundles/
 node_modules/

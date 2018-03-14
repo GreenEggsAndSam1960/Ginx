@@ -1,0 +1,3 @@
+*.pyc
+react_root/static/bundles/local/
+node_modules/

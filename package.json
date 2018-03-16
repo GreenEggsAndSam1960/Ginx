@@ -1,5 +1,5 @@
 {
-  "name": "Ginx React App",
+  "name": "ginx-react-app",
   "version": "1.0.0",
   "description": "A react app to prvide the frontend of the Ginx website",
   "main": "react_root/app.jsx",

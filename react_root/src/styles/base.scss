@@ -1,6 +1,4 @@
 @import './colors.scss';
-@import url('https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
-@import url('https://fonts.googleapis.com/css?family=Playfair+Display:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
 
 * {
     box-sizing: border-box;
@@ -9,5 +7,7 @@
 body {
     margin: 0;
 
-    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-family: 'Helvetica Neue', sans-serif;
+    background-color: $black;
+    color: $white;
 }

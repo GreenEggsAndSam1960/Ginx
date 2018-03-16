@@ -1,0 +1,12 @@
+img {
+    display: block;
+    transition: opacity 0.5s;
+
+    &.hide {
+        opacity: 0;
+    }
+
+    &.error {
+        background-color: lightcoral;
+    }
+}
